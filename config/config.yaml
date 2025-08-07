@@ -81,8 +81,6 @@ platforms:
     name: "虎扑"
   - id: "kaopu"
     name: "靠谱新闻"
-  - id: "mktnews"
-    name: "mktnews"
   - id: "smzdm"
     name: "什么值得买"
   - id: "sputniknewscn"
